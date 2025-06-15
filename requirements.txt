@@ -1,0 +1,3 @@
+fpdf2
+beautify_response
+mysql-connector-python 
