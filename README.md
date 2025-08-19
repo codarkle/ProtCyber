@@ -22,7 +22,7 @@ A professional Python application that generates comprehensive PDF vulnerability
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/codarkle/ProtCyber.git
    cd ProtCyber
    ```
 
